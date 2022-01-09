@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    return s.title()
+x=main("samsung vs iphone")
+print(x)
